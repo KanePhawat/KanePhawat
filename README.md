@@ -1,4 +1,4 @@
-![Header](./readme_header.png)
+![Header](./Header.png)
 ### Hi there 👋
 
 <!--
