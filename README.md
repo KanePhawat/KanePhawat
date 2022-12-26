@@ -1,5 +1,5 @@
 ![Header](./Header.png)
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **KanePhawat/KanePhawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
